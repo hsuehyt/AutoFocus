@@ -1,7 +1,6 @@
 # AutoFocus for Unity URP
 
-A lightweight Unity script that automatically updates the **Depth of Field** focus distance in URP based on the camera’s current **focal point**.
-Designed to work seamlessly with the companion script [CameraController](https://github.com/hsuehyt/CameraController).
+A URP Unity script that dynamically adjusts camera **Depth of Field** in real time to keep the **focal point** perfectly in focus. Designed to work seamlessly with the companion script [CameraController](https://github.com/hsuehyt/CameraController).
 
 ---
 
